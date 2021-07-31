@@ -7,11 +7,10 @@ _________________
 This repository is the official implementation of our paper 
 "T$_k$ML-AP: Adversarial Attacks to Top-$k$ Multi-Label Learning", 
 which has been accepted by **International Conference on Computer Vision (ICCV) 2021**.
-
 [<a href="" target="_blank">PDF</a>] 
 
 <p align="center">
-    <img src="outputs/interpretation_ith_521.JPG" height="389" width= "297">
+    <img src="outputs/interpretation_ith_521.JPG" height="389" width= "397">
 </p>
 
 ## Requirements
