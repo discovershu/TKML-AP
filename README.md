@@ -1,7 +1,18 @@
 # TkML-AP: Adversarial Attacks To Top-k Multi-Label Learning
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/)
 
+Shu Hu, Lipeng Ke, Xin Wang, and Siwei Lyu
 _________________
+
+This repository is the official implementation of our paper 
+"T$_k$ML-AP: Adversarial Attacks to Top-$k$ Multi-Label Learning", 
+which has been accepted by **International Conference on Computer Vision (ICCV) 2021**.
+
+[<a href="" target="_blank">PDF</a>] 
+
+<p align="center">
+    <img src="outputs/interpretation_ith_521.JPG" height="389" width= "297">
+</p>
 
 ## Requirements
 
@@ -203,4 +214,15 @@ python plot_main_attack.py --app baseline_rank --k_value 3
 python plot_main_attack.py --app baseline_rank --k_value 5
 python plot_main_attack.py --app baseline_rank --k_value 10
 python plot_ta.py
+```
+
+## Citation
+Please kindly consider citing our paper in your publications. 
+```bash
+@article{hu2021tkmlap,
+  title={TkML-AP: Adversarial Attacks To Top-k Multi-Label Learning},
+  author={Hu, Shu and Ke, Lipeng and Wang Xin and Lyu, Siwei},
+  journal={},
+  year={2021}
+}
 ```
