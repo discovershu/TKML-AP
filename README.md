@@ -221,7 +221,7 @@ Please kindly consider citing our paper in your publications.
 @article{hu2021tkmlap,
   title={TkML-AP: Adversarial Attacks To Top-k Multi-Label Learning},
   author={Hu, Shu and Ke, Lipeng and Wang Xin and Lyu, Siwei},
-  journal={},
+  journal={Proceedings of the IEEE International Conference on Computer Vision},
   year={2021}
 }
 ```
