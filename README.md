@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ```test
   $ CUDA_VISIBLE_DEVICES=<cuda-id> python main_attack.py --app train
   ```
+  If you do not want to train the model, you can use our pretrained model in google drive with this [link](https://drive.google.com/drive/folders/1e_dxOgxSt7PjbjNFs0LmtVT0KRvhba3x?usp=sharing). You just need to download our pre-train model and put it under the root of this project. Then you can run our proposed attacking methods and get the results.
 
 ### 2. Test the baseline models(inception_v3 and ResNet) and generate test sample index (ap_VOC(COCO)_list.npy)
 ```test
