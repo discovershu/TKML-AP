@@ -15,7 +15,7 @@ which has been accepted by **International Conference on Computer Vision (ICCV) 
 
 ## Notification
 
-Note that if you get the value of 'Pert' from our code, you should use 'Pert'$\times$255 to get the final perturbation size. Please refer this [<a href="https://github.com/discovershu/TKML-AP/issues/1#:~:text=We%20use%20the,are%20very%20good." target="_blank">explanation</a>].    
+Note that if you get the value of 'Pert' from our code, you should use 'Pert'$\cdot$255 to get the final perturbation size. Please refer this [<a href="https://github.com/discovershu/TKML-AP/issues/1#:~:text=We%20use%20the,are%20very%20good." target="_blank">explanation</a>].    
 
 ## Requirements
 
